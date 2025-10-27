@@ -85,18 +85,7 @@ json
     "resolution": "1024x600"
   }
 }
-📁 Project Structure
-text
-car-adas-2.0-pro/
-├── main.py                 # Main application
-├── run_dashboard.py        # Simplified runner
-├── hardware/              # Hardware interfaces
-├── ai_models/             # AI and computer vision
-├── analytics/             # Data analysis
-├── graphics/              # UI rendering
-├── utils/                 # Utilities
-├── config/                # Configuration files
-└── docs/                  # Documentation
+
 
 🎮 Controls
 SPACE: Start/Stop system
