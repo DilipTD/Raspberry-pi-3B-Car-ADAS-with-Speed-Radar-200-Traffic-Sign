@@ -60,13 +60,13 @@ cd car-adas-2.0-pro
 python install.py
 
 2. Hardware Setup
-bash
+```bash
 # Connect all hardware according to docs/HARDWARE_SETUP.md
 # Run hardware test
 python tests/test_hardware.py
 
 3. Launch System
-bash
+```bash
 # Start full system
 python main.py
 
