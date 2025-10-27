@@ -51,7 +51,6 @@ Advanced Driver Assistance System for Raspberry Pi with professional-grade featu
 ## ⚡ Quick Start
 
 1. Installation
-```bash
 # Clone repository
 git clone https://github.com/yourusername/car-adas-2.0-pro.git
 cd car-adas-2.0-pro
@@ -60,18 +59,17 @@ cd car-adas-2.0-pro
 python install.py
 
 2. Hardware Setup
-```bash
 # Connect all hardware according to docs/HARDWARE_SETUP.md
 # Run hardware test
 python tests/test_hardware.py
 
 3. Launch System
-```bash
 # Start full system
 python main.py
 
 # Or start simplified dashboard
 python run_dashboard.py
+
 🔧 Configuration
 Edit config/settings.json to customize:
 
@@ -99,6 +97,7 @@ car-adas-2.0-pro/
 ├── utils/                 # Utilities
 ├── config/                # Configuration files
 └── docs/                  # Documentation
+
 🎮 Controls
 SPACE: Start/Stop system
 
