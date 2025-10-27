@@ -52,7 +52,7 @@ Advanced Driver Assistance System for Raspberry Pi with professional-grade featu
 
 1. Installation
 # Clone repository
-git clone https://github.com/yourusername/car-adas-2.0-pro.git
+git clone https://github.com/DilipTD/Raspberry-pi-3B-Car-ADAS-with-Speed-Radar-200-Traffic-Sign.git
 cd car-adas-2.0-pro
 
 # Run automated installer
